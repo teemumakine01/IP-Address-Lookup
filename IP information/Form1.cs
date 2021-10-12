@@ -14,7 +14,7 @@ namespace IP_information
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Disable your antivirus before you this application.", "Important", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            MessageBox.Show("Disable your antivirus before you use this application.", "Important", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
         private void button1_Click(object sender, EventArgs e)
